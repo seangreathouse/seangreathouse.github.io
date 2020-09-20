@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
+title: sgreat gallery
 email: ""
-description: "Photo Journal"
+description: "Photos"
 url: "https://seangreathouse.github.io"
 baseurl: "/seangreathouse.github.io"
 # facebook_username: ""
