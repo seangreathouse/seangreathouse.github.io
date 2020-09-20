@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
+title: sgreat gallery
 email: ""
-description: "Photo Journal"
+description: "Sean's Gallery"
 url: "https://seangreathouse.github.io"
 baseurl: "/seangreathouse.github.io"
 facebook_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://seangreathouse.github.io/photorama/gallery/"  
+  - JOURNAL: "https://seangreathouse.github.io/photorama/journal/"
+  - ABOUT: "https://seangreathouse.github.io/photorama/about/"
 
 # All translation keys
 translations:
